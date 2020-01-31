@@ -13,6 +13,7 @@ public class TokenServiceImpl implements TokenService{
 		builder.append(getThreeRandomLetters());
 		builder.append("-");
 		builder.append(getThreeRandomNumbers());
+		
 		return builder.toString();
 	}
 	
