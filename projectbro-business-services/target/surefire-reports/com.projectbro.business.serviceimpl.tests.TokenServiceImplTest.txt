@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.project_bro.projectbro_dao_services.AppTest
+Test set: com.projectbro.business.serviceimpl.tests.TokenServiceImplTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.073 sec

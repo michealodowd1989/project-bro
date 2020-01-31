@@ -8,7 +8,7 @@
 		http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.3.xsd">
 
 <!-- server looks for this file during initation of dispatch servlet -->
-	<context:component-scan base-package="com.authenticationService.controllers"></context:component-scan>
+	<context:component-scan base-package="com.projectbro.web.controllers"></context:component-scan>
 <!-- When spring loads this file it knows developer is not manually configuring the bean they are using the anotation approach -->
 
 </beans>
